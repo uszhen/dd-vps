@@ -389,6 +389,6 @@ Windows Server 2022 SERVERDATACENTER
 3. 修改其它代码
 
 
-感谢以下商家提供白嫖机器
+感谢 Oracle Cloud 美国甲骨文云  (https://www.oracle.com/cloud/) 提供免费机器
 
 [![Oracle Cloud](https://github.com/bin456789/reinstall/assets/7548515/8b430ed4-8344-4f96-b4da-c2bda031cc90)](https://www.oracle.com/cloud/)
