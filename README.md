@@ -27,7 +27,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | --------- | ------------ |
 | <img width="16" height="16" src="https://www.alpinelinux.org/alpine-logo.ico" /> Alpine                                                                                                                                                                    | 3.17, 3.18, 3.19, 3.20                | 256 MB    | 1 GB         |
 | <img width="16" height="16" src="https://www.debian.org/favicon.ico" /> Debian                                                                                                                                                                             | 9, 10, 11, 12                         | 256 MB    | 1 ~ 1.5 GB ^ |
-| <img width="16" height="16" src="https://github.com/bin456789/reinstall/assets/7548515/f74b3d5b-085f-4df3-bcc9-8a9bd80bb16d" /> Kali                                                                                                                       | 滚动                                  | 256 MB    | 1 ~ 1.5 GB ^ |
+| <img width="16" height="16" src="https://github.com/uszhen/reinstall/assets/7548515/f74b3d5b-085f-4df3-bcc9-8a9bd80bb16d" /> Kali                                                                                                                       | 滚动                                  | 256 MB    | 1 ~ 1.5 GB ^ |
 | <img width="16" height="16" src="https://netplan.readthedocs.io/en/latest/_static/favicon.png" /> Ubuntu                                                                                                                                                   | 16.04, 18.04, 20.04, 22.04, 24.04     | 512 MB \* | 2 GB         |
 | <img width="16" height="16" src="https://www.centos.org/assets/img/favicon.png" /> CentOS                                                                                                                                                                  | 9                                     | 512 MB \* | 5 GB         |
 | <img width="16" height="16" src="https://img.alicdn.com/imgextra/i1/O1CN01oJnJZg1yK4RzI4Rx2_!!6000000006559-2-tps-118-118.png" /> Anolis                                                                                                                   | 7, 8                                  | 512 MB \* | 5 GB         |
@@ -58,13 +58,13 @@
 国外服务器：
 
 ```bash
-curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh || wget -O reinstall.sh $_
+curl -O https://raw.githubusercontent.com/uszhen/reinstall/main/reinstall.sh || wget -O reinstall.sh $_
 ```
 
 国内服务器：
 
 ```bash
-curl -O https://jihulab.com/bin456789/reinstall/-/raw/main/reinstall.sh || wget -O reinstall.sh $_
+curl -O https://jihulab.com/uszhen/reinstall/-/raw/main/reinstall.sh || wget -O reinstall.sh $_
 ```
 
 ## 下载（当前系统是 <img width="20" height="20" src="https://blogs.windows.com/wp-content/uploads/prod/2022/09/cropped-Windows11IconTransparent512-32x32.png" /> Windows）
@@ -91,22 +91,22 @@ curl -O https://jihulab.com/bin456789/reinstall/-/raw/main/reinstall.sh || wget 
 
 3. 手动下载，通过 `远程桌面` 复制这两个文件
 
-   <https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.bat>
+   <https://raw.githubusercontent.com/uszhen/reinstall/main/reinstall.bat>
 
-   <https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh>
+   <https://raw.githubusercontent.com/uszhen/reinstall/main/reinstall.sh>
 
 </details>
 
 国外服务器：
 
 ```batch
-certutil -urlcache -f -split https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.bat
+certutil -urlcache -f -split https://raw.githubusercontent.com/uszhen/reinstall/main/reinstall.bat
 ```
 
 国内服务器：
 
 ```batch
-certutil -urlcache -f -split https://jihulab.com/bin456789/reinstall/-/raw/main/reinstall.bat
+certutil -urlcache -f -split https://jihulab.com/uszhen/reinstall/-/raw/main/reinstall.bat
 ```
 
 ## 使用
@@ -305,7 +305,7 @@ bash reinstall.sh windows \
 
 </details>
 
-![Installing Windows](https://github.com/bin456789/reinstall/assets/7548515/07c1aea2-1ce3-4967-904f-aaf9d6eec3f7)
+![Installing Windows](https://github.com/uszhen/reinstall/assets/7548515/07c1aea2-1ce3-4967-904f-aaf9d6eec3f7)
 
 #### 参数说明
 
@@ -320,7 +320,7 @@ Windows Server 2022 SERVERDATACENTER
 
 打开 [DISM++](https://github.com/Chuyu-Team/Dism-Multi-language/releases) 文件菜单 > 打开映像文件，选择要安装的 iso，可以得到映像名称
 
-![image-name](https://github.com/bin456789/reinstall/assets/7548515/5aae0a9b-61e2-4f66-bb98-d470a6beaac2)
+![image-name](https://github.com/uszhen/reinstall/assets/7548515/5aae0a9b-61e2-4f66-bb98-d470a6beaac2)
 
 #### 支持的系统
 
@@ -379,7 +379,7 @@ Windows Server 2022 SERVERDATACENTER
 
 ## 讨论
 
-[![GitHub Issues](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bin456789/reinstall/issues)
+[![GitHub Issues](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uszhen/reinstall/issues)
 [![Telegram Group](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reinstall_os)
 
 ## 如何修改脚本
