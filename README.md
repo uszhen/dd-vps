@@ -9,10 +9,7 @@
 - [搬瓦工官方机场](https://justmysocks.net/members/aff.php?aff=16884)  
 
 
-# 一键重装脚本 [English] 
-
-
-## 亮点
+## 一键重装脚本亮点
 
 - 支持安装 17 种常见 Linux 发行版
 - 支持安装官方原版 Windows iso，自动查找 iso 链接、集成虚拟机驱动
@@ -391,11 +388,7 @@ Windows Server 2022 SERVERDATACENTER
 2. 修改 `reinstall.sh` 和 `reinstall.bat` 开头的 `confhome` 和 `confhome_cn`
 3. 修改其它代码
 
-## 感谢
-
-[![Github Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/bin456789)
 
 感谢以下商家提供白嫖机器
 
 [![Oracle Cloud](https://github.com/bin456789/reinstall/assets/7548515/8b430ed4-8344-4f96-b4da-c2bda031cc90)](https://www.oracle.com/cloud/)
-[![DartNode](https://github.com/bin456789/reinstall/assets/7548515/435d6740-bcdd-4f3a-a196-2f60ae397f17)](https://dartnode.com/)
