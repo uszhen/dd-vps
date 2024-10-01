@@ -390,6 +390,6 @@ Windows Server 2022 SERVERDATACENTER
 
 
 ## 感谢美国甲骨文云提供免费机器
+
 - [Oracle Cloud](https://www.oracle.com/cloud/)
 
-[![Oracle Cloud](https://github.com/bin456789/reinstall/assets/7548515/8b430ed4-8344-4f96-b4da-c2bda031cc90)](https://www.oracle.com/cloud/)
