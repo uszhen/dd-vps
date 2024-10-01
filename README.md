@@ -8,8 +8,6 @@
 如果你希望购买一些现成的代理服务,可选择下述代理服务
 - [搬瓦工官方机场](https://justmysocks.net/members/aff.php?aff=16884)  
 
-一键重装脚本亮点
-
 - 支持安装 17 种常见 Linux 发行版
 - 支持安装官方原版 Windows iso，自动查找 iso 链接、集成虚拟机驱动
 - 支持任意方向重装，即 `Linux to Linux`、`Linux to Windows`、`Windows to Windows`、`Windows to Linux`
