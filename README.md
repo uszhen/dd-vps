@@ -9,9 +9,8 @@
 - [搬瓦工官方机场](https://justmysocks.net/members/aff.php?aff=16884)  
 
 
-一键重装脚本 [English](README.en.md)
+# 一键重装脚本 [English] 
 
-![捐赠者](https://raw.githubusercontent.com/bin456789/sponsors/refs/heads/master/sponsors.svg)
 
 ## 亮点
 
